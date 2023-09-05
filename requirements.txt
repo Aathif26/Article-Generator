@@ -3,4 +3,4 @@ streamlit
 langchain
 python-docx
 streamlit-lottie
-ctransformers
+transformers
